@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1031204255014",
+    "firebase_url": "https://project-keylog-default-rtdb.firebaseio.com",
+    "project_id": "project-keylog",
+    "storage_bucket": "project-keylog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031204255014:android:264ab9a6b73d5c58acbde7",
+        "android_client_info": {
+          "package_name": "com.example.keylogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeH73rh1HVmyto85ywHL2lgUSOnF-ZlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
