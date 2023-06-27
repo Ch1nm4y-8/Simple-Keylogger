@@ -1,0 +1,1 @@
+This code works with firebase database hence requires a authentication json file along with it to execute.
